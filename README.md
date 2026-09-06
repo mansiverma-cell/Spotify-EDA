@@ -4,7 +4,7 @@ Exploratory Data Analysis of Spotify tracks using Python, Pandas, Matplotlib and
 
 ## Dataset
 - 113,999 rows × 20 columns (post-cleaning)
-- Source: [add Kaggle dataset link here]
+- Source: [Spotify Tracks Dataset (Kaggle, yashdev01)](https://www.kaggle.com/datasets/yashdev01/spotify-tracks-dataset)
 
 ## What This Project Covers
 - Data cleaning and preprocessing
